@@ -1,0 +1,13 @@
+.bigger {
+  background-color: #744FA8; /* Purple */
+  border: none;
+  color: white;
+  padding: 10px 100px;
+  border-radius: 15px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
